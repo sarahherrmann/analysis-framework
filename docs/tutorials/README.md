@@ -15,7 +15,7 @@ In each of the following sections one of these tutorial codes will be discussed 
 
 More in-depth information about analysis tasks can be found in the [Analysis Framework](../framework/framework.md) section of these documentation pages.
 
-To run a tutorial analysis do
+To run a tutorial analysis do (under O2Physics environment)
 ```csh
 o2-analysistutorial-* --aod-file AO2D.root
 ```
